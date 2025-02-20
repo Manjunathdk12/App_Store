@@ -1,0 +1,21 @@
+.app-img-container {
+  padding: 25px;
+  align-items: center;
+  background-color: white;
+  margin: 10px;
+  border-radius: 10px;
+  width: 200px;
+}
+.app-image {
+  height: 100px;
+  width: 100px;
+}
+.app-name {
+  font-size: 20px;
+  color: black;
+}
+.app-name {
+  color: #1e293b;
+  font-weight: bold;
+  font-family: Bree Serif;
+}
